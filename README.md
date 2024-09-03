@@ -32,6 +32,8 @@ print(B)
 
 
 
+
+
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/bafc6ec0-972f-42a9-b9d9-7f4ae59d87af)
